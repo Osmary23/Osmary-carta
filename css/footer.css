@@ -1,0 +1,12 @@
+body footer {
+    height: 50px;
+    width: 100%;
+    background-color: #f2dbaf;
+ position: absolute;
+ bottom: 0;
+}
+footer span{
+    font-size: 18px;
+    color: #2360a4;
+   
+}
